@@ -111,6 +111,10 @@ a {
     rgb(68, 87, 147) 70.2%
   );
 }
+.weather-forecast {
+  text-align: center;
+}
+
 footer {
   margin-top: 20px;
 }
